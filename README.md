@@ -34,7 +34,7 @@ This is my third fourth created using React.js. The page acts as a page represen
 <strong>Functions:</strong> /Remove/ - /Add/ - /Edit/ Components</br>
 <strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.</br>
 
-https://project03-oszymorek.netlify.app/
+https://project04-oszymorek.netlify.app/
 
 ##  Repository Structure
 
