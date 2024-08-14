@@ -2,7 +2,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
 </p>
 <p align="center">
-    <h1 align="center">TRAVEL LIST</h1>
+    <h1 align="center">Travel List</h1>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/oszymorek/travel_list.git?style=flat&color=0080ff" alt="license">
@@ -23,12 +23,12 @@
 
 ## Project #4 - Travel List
 
-This is my third fourth created using React.js. The page acts as a page representing a Application which allow to add/remove/edit list of demand for travel.
+The page acts as a page representing a Application which allow to add/remove/edit list of demand for travel.
 
 <strong>Creation Process</strong> </br>
 <strong>Initialising the project:</strong> I used create-react-app to create the basic structure of the project.</br>
 <strong>Component creation:</strong> Each section of the page was implemented as a separate React component.</br>
-<strong>Data:</strong> Data is passed in via props.</br>
+<strong>Data:</strong> Data is passed in via props(props drilling).</br>
 <strong>Styling:</strong> Application of CSS styles to give the page an aesthetically pleasing look.</br>
 <strong>Hooks:</strong> Using the `useState` hook to update the page state.</br>
 <strong>Functions:</strong> `Sorting` | `Add` | `Edit` | `Remove` </br>
